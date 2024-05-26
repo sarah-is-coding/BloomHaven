@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "name": "Radiant Roses Bouquet",
+        "brand": "Bloom Haven",
+        "image": "img/products/f1.jpg",
+        "price": "$38.99",
+        "description": "A beautiful bouquet of radiant roses.",
+        "rating": 5
+    },
+    {
+        "id": "2",
+        "name": "Sunny Daisies Arrangement",
+        "brand": "Bloom Haven",
+        "image": "img/products/f2.jpg",
+        "price": "$32.99",
+        "description": "Bright and cheerful daisies arranged perfectly.",
+        "rating": 4
+    },
+    {
+        "id": "3",
+        "name": "Elegant Lilies Bouquet",
+        "brand": "Bloom Haven",
+        "image": "img/products/f3.jpg",
+        "price": "$35.99",
+        "description": "A stylish bouquet of elegant lilies.",
+        "rating": 5
+    },
+    {
+        "id": "4",
+        "name": "Vibrant Tulips Collection",
+        "brand": "Bloom Haven",
+        "image": "img/products/f4.jpg",
+        "price": "$35.99",
+        "description": "High-quality tulips in vibrant colors.",
+        "rating": 4
+    },
+    {
+        "id": "5",
+        "name": "Classic Carnations Bunch",
+        "brand": "Bloom Haven",
+        "image": "img/products/f5.jpg",
+        "price": "$39.99",
+        "description": "A bunch of classic and timeless carnations.",
+        "rating": 5
+    },
+    {
+        "id": "6",
+        "name": "Mixed Seasonal Flowers",
+        "brand": "Bloom Haven",
+        "image": "img/products/f6.jpg",
+        "price": "$39.99",
+        "description": "A bouquet of mixed seasonal flowers.",
+        "rating": 4
+    },
+    {
+        "id": "7",
+        "name": "Romantic Peonies Arrangement",
+        "brand": "Bloom Haven",
+        "image": "img/products/f7.jpg",
+        "price": "$35.99",
+        "description": "A romantic arrangement of peonies.",
+        "rating": 4
+    },
+    {
+        "id": "8",
+        "name": "Charming Sunflowers Bouquet",
+        "brand": "Bloom Haven",
+        "image": "img/products/f8.jpg",
+        "price": "$32.99",
+        "description": "Charming bouquet of bright sunflowers.",
+        "rating": 4
+    },
+    {
+        "id": "9",
+        "name": "Delicate Orchids and Pastel Rose Display",
+        "brand": "Bloom Haven",
+        "image": "img/products/n1.jpg",
+        "price": "$39.99",
+        "description": "A stunning display of delicate orchids.",
+        "rating": 5
+    },
+    {
+        "id": "10",
+        "name": "Vibrant Dahlias and Delicate Asters Arrangement",
+        "brand": "Bloom Haven",
+        "image": "img/products/n2.jpg",
+        "price": "$39.99",
+        "description": "A stunning bouquet of vibrant dahlias and delicate asters presented elegantly on intricate white lace..",
+        "rating": 5
+    },
+    {
+        "id": "11",
+        "name": "Cheerful Daisy and Gerberas Bunch",
+        "brand": "Bloom Haven",
+        "image": "img/products/n3.jpg",
+        "price": "$38.99",
+        "description": "A cheerful bunch of colorful daisies and gerberas.",
+        "rating": 5
+    },
+    {
+        "id": "12",
+        "name": "Graceful Gladiolus Stems",
+        "brand": "Bloom Haven",
+        "image": "img/products/n4.jpg",
+        "price": "$32.99",
+        "description": "Graceful stems of gladiolus flowers.",
+        "rating": 4
+    },
+    {
+        "id": "13",
+        "name": "Lovely Lavender and Sunflower Sprays",
+        "brand": "Bloom Haven",
+        "image": "img/products/n5.jpg",
+        "price": "$35.99",
+        "description": "Lovely sprays of fragrant lavender and sunflowers.",
+        "rating": 5
+    },
+    {
+        "id": "14",
+        "name": "Succulent Bouquet",
+        "brand": "Bloom Haven",
+        "image": "img/products/n6.jpg",
+        "price": "$35.99",
+        "description": "A stunning bridal bouquet featuring an array of succulents and greenery tied with a blue ribbon.",
+        "rating": 4
+    },
+    {
+        "id": "15",
+        "name": "Pretty Pansies Mix",
+        "brand": "Bloom Haven",
+        "image": "img/products/n7.jpg",
+        "price": "$39.99",
+        "description": "A pretty mix of colorful pansies.",
+        "rating": 5
+    },
+    {
+        "id": "16",
+        "name": "Festive Dasies and Chrysanthemums",
+        "brand": "Bloom Haven",
+        "image": "img/products/n8.jpg",
+        "price": "$39.99",
+        "description": "Festive bouquet of dasies and chrysanthemums.",
+        "rating": 4
+    }
+]

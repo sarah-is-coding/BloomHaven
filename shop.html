@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloom Haven</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="header-container"></div>
+
+    <section id="page-header">
+
+        <h2>#flourish</h2>
+
+        <p>Save more with coupons & up to 70% off!</p>
+
+    </section>
+
+    <section id="product1" class="section-p1">
+        <div class="pro-container" id="product-list">
+            <!-- Products are dynamically generated here -->
+        </div>
+    </section>
+
+    <section id="pagination" class="section-p1">
+        <a href="#" id="prev-page">Previous</a>
+        <span id="page-numbers"></span>
+        <a href="#" id="next-page">Next</a>
+    </section>
+    
+
+    <section id="newsletter" class="section-p1 section-m1">
+        <div class="newstext">
+            <h4>Sign Up For Newsletters</h4>
+            <p>Get E-mail updates about our latest shop and <span>special offers.</span> </p>
+        </div>
+        <div class="form">
+            <input type="text" placeholder="Your email address">
+            <button class="normal">Sign Up</button>
+        </div>
+    </section>
+
+    <div id="footer-container"></div>
+
+
+    <script src="js/script.js"></script>
+    <script type="module" src="js/product.js"></script>
+    <script type="module" src="js/displayProducts.js"></script>
+    <script src="js/loadHeader.js"></script>
+    <script src="js/loadFooter.js"></script>
+    
+    
+</body>
+
+</html>
